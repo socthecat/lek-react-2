@@ -1,0 +1,16 @@
+form {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 20vw;
+}
+input, button {
+    margin: 5px 0;
+}
+span {
+    color: #9d3333;
+    font-size: 14px;
+}
+h1 {
+    text-align: center
+}
